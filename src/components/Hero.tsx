@@ -93,7 +93,7 @@ export default function Hero() {
                 </svg>
               </Link>
               <Link
-                href="#demo"
+                href="/contact"
                 className="border-2 border-white/30 text-white hover:bg-white/10 px-8 py-4 rounded-lg transition-all duration-300 flex items-center gap-2 font-semibold text-lg backdrop-blur-sm hover:border-blue-400 hover:shadow-lg hover:shadow-blue-500/25 hover:scale-105"
               >
                 <span>Book a demo</span>
