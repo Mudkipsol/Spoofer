@@ -57,7 +57,7 @@ export default function FAQ() {
 
         <div className="text-center mt-12">
           <Link
-            href="#"
+            href="/faq"
             className="inline-flex items-center gap-2 border border-gray-300 hover:border-gray-400 text-gray-700 px-8 py-3 rounded-lg transition-colors font-medium"
           >
             Browse complete FAQs
