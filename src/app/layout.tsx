@@ -16,11 +16,12 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "SpectreSpoofer - Bulletproof Content Spoofing & Repurposing",
-  description: "The ultimate suite for bulletproof content repurposing. AI workflows, stealth grade obfuscation, and seamless cross platform deployment. Military-grade stealth technology for elite operators.",
+  title: "SpectreSpoofer - Elite Stealth Platform for Content Operators",
+  description: "Military-grade content obfuscation technology. Advanced AI stealth algorithms, sensor fingerprint spoofing, and undetectable cross-platform deployment. The ultimate tool for elite operators.",
+  metadataBase: new URL('https://spectrespoofer.com'),
   openGraph: {
-    title: "SpectreSpoofer - Bulletproof Content Spoofing & Repurposing",
-    description: "The ultimate suite for bulletproof content repurposing. AI workflows, stealth grade obfuscation, and seamless cross platform deployment. Military-grade stealth technology for elite operators.",
+    title: "SpectreSpoofer - Elite Stealth Platform for Content Operators",
+    description: "Military-grade content obfuscation technology. Advanced AI stealth algorithms, sensor fingerprint spoofing, and undetectable cross-platform deployment. The ultimate tool for elite operators.",
     url: "https://spectrespoofer.com",
     siteName: "SpectreSpoofer",
     images: [
@@ -28,7 +29,7 @@ export const metadata: Metadata = {
         url: "/spectrespoofer-hero-image.png",
         width: 1200,
         height: 630,
-        alt: "SpectreSpoofer - Bulletproof Content Spoofing Platform",
+        alt: "SpectreSpoofer - Elite Content Stealth Platform",
       },
     ],
     locale: "en_US",
@@ -36,8 +37,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "SpectreSpoofer - Bulletproof Content Spoofing & Repurposing",
-    description: "The ultimate suite for bulletproof content repurposing. AI workflows, stealth grade obfuscation, and seamless cross platform deployment.",
+    title: "SpectreSpoofer - Elite Stealth Platform for Content Operators",
+    description: "Military-grade content obfuscation technology. Advanced AI stealth algorithms, sensor fingerprint spoofing, and undetectable cross-platform deployment.",
     images: ["/spectrespoofer-hero-image.png"],
   },
 };

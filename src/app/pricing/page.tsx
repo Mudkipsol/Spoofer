@@ -230,7 +230,7 @@ export default function PricingPage() {
             </h1>
             <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto tech-description">
               From solo operations to enterprise-grade stealth, SpectreSpoofer scales with your ambitions.
-              All plans include our 5 spoof free trial and 30-day money-back guarantee.
+              All plans include our 5 spoof free trial. All sales are final.
             </p>
           </div>
 
@@ -424,7 +424,7 @@ export default function PricingPage() {
 
                     <div className="text-center text-xs text-gray-500">
                       {plan.name !== "Spectre" ? (
-                        <span>🛡️ 30-day money-back guarantee • Cancel anytime</span>
+                        <span>🛡️ All sales are final • Cancel anytime</span>
                       ) : (
                         <span>🤝 Custom solutions • Dedicated support</span>
                       )}

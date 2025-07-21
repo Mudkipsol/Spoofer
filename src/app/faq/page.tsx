@@ -125,7 +125,7 @@ export default function FAQPage() {
         },
         {
           question: "Do you offer refunds?",
-          answer: "We offer a 30-day money-back guarantee if you're not satisfied with our service. Simply contact our support team for a full refund, no questions asked."
+          answer: "Due to the nature of our service, we do not offer refunds due to the fact that some agencies may abuse our refund policy. For this reason, all sales are final."
         }
       ]
     },
