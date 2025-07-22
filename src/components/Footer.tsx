@@ -70,7 +70,7 @@ export default function Footer() {
           {/* Bottom Bar */}
           <div className="border-t border-gray-200 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-600 mb-4 md:mb-0">
-              Spectrespoofer.com • Copyright © 2024
+              Spectrespoofer.com • Copyright © 2025
             </p>
             <div className="flex space-x-6">
               <Link href="#" className="text-gray-600 hover:text-gray-900">Terms of service</Link>
