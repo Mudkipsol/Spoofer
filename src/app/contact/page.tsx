@@ -454,7 +454,7 @@ export default function ContactPage() {
                   <div className="relative group/button">
                     <div className="absolute -inset-1 bg-gradient-to-r from-[#15202b] via-blue-600 to-[#15202b] rounded-lg blur opacity-0 group-hover/button:opacity-100 transition-opacity duration-300" />
                     <Link
-                      href="#"
+                      href="https://t.me/spectrespooferupdates"
                       className="relative inline-flex items-center gap-2 bg-[#15202b] hover:bg-[#2d3748] text-white px-6 py-3 rounded-lg transition-all duration-300 font-medium hover:shadow-lg hover:shadow-blue-500/25 hover:scale-105"
                     >
                       Join Telegram Support
