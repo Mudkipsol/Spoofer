@@ -361,7 +361,7 @@ export default function FAQPage() {
               </svg>
             </Link>
             <Link
-              href="#"
+              href="https://t.me/spectrespooferupdates"
               className="inline-flex items-center gap-2 bg-white border-2 border-[#15202b] text-[#15202b] hover:bg-[#15202b] hover:text-white px-8 py-4 rounded-lg transition-colors font-semibold"
             >
               Join Telegram
